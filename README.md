@@ -1,4 +1,3 @@
-# Script-Python-DownlaodPaginaWeb
 O Objetivo desse scritp é :
 *Autenticação no Zabbix
 *Acesso a Pagina de Relatório
@@ -7,3 +6,4 @@ O Objetivo desse scritp é :
 *Mover arquivos para a pasta 
 *Compactação dos arquivos em .zip 
 *Exclusão da pastas criada depois da compactação. 
+*Envio de Mensagem de Confirmação em grupo no telegram 
