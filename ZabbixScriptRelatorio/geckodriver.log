@@ -1,0 +1,477 @@
+1674096589902	geckodriver	INFO	Listening on 127.0.0.1:44937
+1674096590484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileui0gZ6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674096591343	Marionette	INFO	Marionette enabled
+1674096591349	Marionette	INFO	Listening on port 45839
+Read port: 45839
+WebDriver BiDi listening on ws://127.0.0.1:41405
+1674096591534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileui0gZ6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41405/devtools/browser/211927e0-16fc-48ab-bf8c-26daae4dbe32
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674096644291	Marionette	INFO	Stopped listening on port 45839
+1674097146952	geckodriver	INFO	Listening on 127.0.0.1:35865
+1674097147523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileinCZJq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674097148355	Marionette	INFO	Marionette enabled
+1674097148360	Marionette	INFO	Listening on port 34989
+Read port: 34989
+WebDriver BiDi listening on ws://127.0.0.1:54019
+1674097148541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileinCZJq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54019/devtools/browser/0dd220f4-5758-44ae-b073-856c7a8e68ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674097200166	Marionette	INFO	Stopped listening on port 34989
+1674117666170	geckodriver	INFO	Listening on 127.0.0.1:57819
+1674117666746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoqPrIC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674117667527	Marionette	INFO	Marionette enabled
+1674117667531	Marionette	INFO	Listening on port 33641
+Read port: 33641
+WebDriver BiDi listening on ws://127.0.0.1:56219
+1674117667673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoqPrIC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56219/devtools/browser/3c1eddeb-3c0b-46bb-95ec-e10430902909
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674117720129	Marionette	INFO	Stopped listening on port 33641
+1674117844366	geckodriver	INFO	Listening on 127.0.0.1:56569
+1674117844937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezR8gHm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674117845732	Marionette	INFO	Marionette enabled
+1674117845737	Marionette	INFO	Listening on port 41889
+Read port: 41889
+WebDriver BiDi listening on ws://127.0.0.1:50119
+1674117845892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezR8gHm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50119/devtools/browser/1ab817bb-9d63-4c77-b751-b4bdf18bdc9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674117901846	Marionette	INFO	Stopped listening on port 41889
+1674118023719	geckodriver	INFO	Listening on 127.0.0.1:52437
+1674118024306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7eQc67"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674118024968	Marionette	INFO	Marionette enabled
+1674118024973	Marionette	INFO	Listening on port 36173
+Read port: 36173
+WebDriver BiDi listening on ws://127.0.0.1:54423
+1674118025136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7eQc67/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54423/devtools/browser/49ae531d-9f48-4fd1-8c80-be76a46c66c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674118081108	Marionette	INFO	Stopped listening on port 36173
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674118394822	geckodriver	INFO	Listening on 127.0.0.1:45271
+1674118395382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0vta48"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674118395947	Marionette	INFO	Marionette enabled
+1674118395950	Marionette	INFO	Listening on port 37697
+Read port: 37697
+WebDriver BiDi listening on ws://127.0.0.1:40063
+1674118396127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0vta48/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40063/devtools/browser/19f93d2b-03d0-461d-8452-e8dc75429954
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674118455958	Marionette	INFO	Stopped listening on port 37697
+1674118567006	geckodriver	INFO	Listening on 127.0.0.1:38775
+1674118567578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP4FaPj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674118568268	Marionette	INFO	Marionette enabled
+1674118568272	Marionette	INFO	Listening on port 34953
+Read port: 34953
+WebDriver BiDi listening on ws://127.0.0.1:45785
+1674118568404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP4FaPj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45785/devtools/browser/15febb87-e2bf-4e4d-9c56-093864a2db76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674118654950	Marionette	INFO	Stopped listening on port 34953
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674118988561	geckodriver	INFO	Listening on 127.0.0.1:53579
+1674118989133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh4DGkz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674118989630	Marionette	INFO	Marionette enabled
+1674118989632	Marionette	INFO	Listening on port 35161
+Read port: 35161
+WebDriver BiDi listening on ws://127.0.0.1:57269
+1674118989735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh4DGkz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57269/devtools/browser/33cda8f7-50d2-4ec1-a323-7b79960c89ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674119165287	geckodriver	INFO	Listening on 127.0.0.1:42083
+1674119165861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesnF5S8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674119166385	Marionette	INFO	Marionette enabled
+1674119166388	Marionette	INFO	Listening on port 46019
+Read port: 46019
+WebDriver BiDi listening on ws://127.0.0.1:39041
+1674119166495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesnF5S8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39041/devtools/browser/972a5aa6-935d-4f1f-9f1b-dffc887bdf13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674119263819	Marionette	INFO	Stopped listening on port 46019
+1674119643244	geckodriver	INFO	Listening on 127.0.0.1:53861
+1674119643821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekYSH28"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674119644513	Marionette	INFO	Marionette enabled
+1674119644516	Marionette	INFO	Listening on port 37429
+Read port: 37429
+WebDriver BiDi listening on ws://127.0.0.1:47947
+1674119644679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekYSH28/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47947/devtools/browser/5980c9db-e0c1-4e9c-8d1f-f1f9174a5e2a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674119741777	Marionette	INFO	Stopped listening on port 37429
+1674120606251	geckodriver	INFO	Listening on 127.0.0.1:56857
+1674120606839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEMzKg7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674120607363	Marionette	INFO	Marionette enabled
+1674120607366	Marionette	INFO	Listening on port 38877
+WebDriver BiDi listening on ws://127.0.0.1:43947
+Read port: 38877
+1674120607480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEMzKg7/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+DevTools listening on ws://127.0.0.1:43947/devtools/browser/55ba04d2-8550-4d7f-897e-4515d4c259c1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674120611970	Marionette	INFO	Stopped listening on port 38877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674120631023	geckodriver	INFO	Listening on 127.0.0.1:39471
+1674120631607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevWhSai"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674120632142	Marionette	INFO	Marionette enabled
+1674120632145	Marionette	INFO	Listening on port 43279
+Read port: 43279
+WebDriver BiDi listening on ws://127.0.0.1:34533
+1674120632284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevWhSai/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34533/devtools/browser/687cf7f0-94bc-4644-a630-bfb9dce673b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674120729759	Marionette	INFO	Stopped listening on port 43279
+1674123141012	Marionette	INFO	Stopped listening on port 35161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674128163150	geckodriver	INFO	Listening on 127.0.0.1:34087
+1674128163715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepeSj9b"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674128164461	Marionette	INFO	Marionette enabled
+1674128164464	Marionette	INFO	Listening on port 38287
+Read port: 38287
+WebDriver BiDi listening on ws://127.0.0.1:49605
+1674128164697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepeSj9b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49605/devtools/browser/3403fe14-d6a1-4753-a76a-2ea1ee1cab40
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+JavaScript error: https://zabbix.saude.pe.gov.br/zabbix/jsLoader.php?lang=pt_BR&ver=5.0.13&showGuiMessaging=1, line 29321: TypeError: resp is undefined
+1674128263424	Marionette	INFO	Stopped listening on port 38287
+1674136803328	geckodriver	INFO	Listening on 127.0.0.1:52249
+1674136803877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUEEpLO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674136804941	Marionette	INFO	Marionette enabled
+1674136804945	Marionette	INFO	Listening on port 38215
+Read port: 38215
+WebDriver BiDi listening on ws://127.0.0.1:59433
+1674136805106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUEEpLO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59433/devtools/browser/f19115e2-27aa-47cb-9b51-e936a9432c74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674136904325	Marionette	INFO	Stopped listening on port 38215
+1674216006226	geckodriver	INFO	Listening on 127.0.0.1:47947
+1674216006786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejMPWTy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674216007449	Marionette	INFO	Marionette enabled
+1674216007452	Marionette	INFO	Listening on port 42935
+Read port: 42935
+WebDriver BiDi listening on ws://127.0.0.1:51387
+1674216007620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejMPWTy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51387/devtools/browser/756a29cd-ab26-4bc5-9232-91772f5eb420
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://zabbix.saude.pe.gov.br."
+1674216022153	Marionette	INFO	Stopped listening on port 42935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
